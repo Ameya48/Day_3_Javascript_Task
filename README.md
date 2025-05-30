@@ -8,7 +8,7 @@ Fill in the blanks to test your JavaScript knowledge:
 
 3. To assign a string to a variable, use quotes like this:
     ```javascript
-    let name = "John";
+    let name = "Ameya";
     ```
 
 4. The `function` keyword is used to define a function.
